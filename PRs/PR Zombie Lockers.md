@@ -11,10 +11,10 @@ By additing additional components to the abort check at the start of the `OnRela
 ### Technical  Changes
  – Added requirement that an entity not have both the `ZombieComponent` and `HumanoidAppearanceComponent` in order to bypass `OnRelayMovement()`
 ### Test Cases
- – [ ] Humanoid Zombies can move out of closed, unlocked lockers
- – [ ] Humanoid Zombies can resist closed and locked lockers
- – [ ] Non-humanoid Zombies cannot move out of closed, unlocked lockers
- – [ ] Non-humanoid Zombies cannot resist closed and locked lockers
+ – [ ] Humanoid Zombies can move out of closed, unlocked lockers  
+ – [ ] Humanoid Zombies can resist closed and locked lockers  
+ – [ ] Non-humanoid Zombies cannot move out of closed, unlocked lockers  
+ – [ ] Non-humanoid Zombies cannot resist closed and locked lockers  
 ## Media
 No current media, will add later.
 ## Requirements
